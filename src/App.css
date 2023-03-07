@@ -1,38 +1,57 @@
-.App {
-  text-align: center;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #c7c7c7;
+    font-family: "dm_sansregular";
+}
+a {
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+}
+li {
+    list-style: none;
+}
+.wrapper {
+    width: 80%;
+    margin: 0 auto;
+}
+img {
+    display: block;
+    width: 100%;
+}
+button,
+input,
+textarea {
+    outline: none;
+    border: none;
+    background-color: transparent;
+}
+@font-face {
+    font-family: "dm_sansbold";
+    src: url("./assets/fonts/dm-sans/dmsans-bold-webfont.woff2") format("woff2"),
+        url("./assets/fonts/dm-sans/dmsans-bold-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@font-face {
+    font-family: "dm_sansmedium";
+    src: url("./assets/fonts/dm-sans/dmsans-medium-webfont.woff2")
+            format("woff2"),
+        url("./assets/fonts/dm-sans/dmsans-medium-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+@font-face {
+    font-family: "dm_sansregular";
+    src: url("./assets/fonts/dm-sans/dmsans-regular-webfont.woff2")
+            format("woff2"),
+        url("./assets/fonts/dm-sans/dmsans-regular-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
 }
