@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.d31a3cf3.css",
-    "main.js": "/my-portfolio/static/js/main.fc6a404d.js",
+    "main.css": "/my-portfolio/static/css/main.d130edeb.css",
+    "main.js": "/my-portfolio/static/js/main.91bc3386.js",
     "static/media/varsha.png": "/my-portfolio/static/media/varsha.46ae35f1f7c321e28f96.png",
     "static/media/real-estate.png": "/my-portfolio/static/media/real-estate.6d10fb43c8b9a37d283a.png",
     "static/media/guester.png": "/my-portfolio/static/media/guester.2bdc6bd7837f731be779.png",
@@ -19,11 +19,11 @@
     "static/media/dmsans-regular-webfont.woff2": "/my-portfolio/static/media/dmsans-regular-webfont.6951f52f2e5e0c170b9f.woff2",
     "static/media/github.png": "/my-portfolio/static/media/github.f11021803f68852df283.png",
     "index.html": "/my-portfolio/index.html",
-    "main.d31a3cf3.css.map": "/my-portfolio/static/css/main.d31a3cf3.css.map",
-    "main.fc6a404d.js.map": "/my-portfolio/static/js/main.fc6a404d.js.map"
+    "main.d130edeb.css.map": "/my-portfolio/static/css/main.d130edeb.css.map",
+    "main.91bc3386.js.map": "/my-portfolio/static/js/main.91bc3386.js.map"
   },
   "entrypoints": [
-    "static/css/main.d31a3cf3.css",
-    "static/js/main.fc6a404d.js"
+    "static/css/main.d130edeb.css",
+    "static/js/main.91bc3386.js"
   ]
 }
