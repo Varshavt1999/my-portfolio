@@ -1,29 +1,28 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.d130edeb.css",
-    "main.js": "/my-portfolio/static/js/main.91bc3386.js",
+    "main.css": "/my-portfolio/static/css/main.2d124621.css",
+    "main.js": "/my-portfolio/static/js/main.fb0af00f.js",
     "static/media/varsha.png": "/my-portfolio/static/media/varsha.46ae35f1f7c321e28f96.png",
     "static/media/real-estate.png": "/my-portfolio/static/media/real-estate.6d10fb43c8b9a37d283a.png",
     "static/media/guester.png": "/my-portfolio/static/media/guester.2bdc6bd7837f731be779.png",
     "static/media/coffe-website.png": "/my-portfolio/static/media/coffe-website.7f7e45e8630f6e885c05.png",
     "static/media/random-color-generator.png": "/my-portfolio/static/media/random-color-generator.8c1c922fa99cb170fdc9.png",
+    "static/media/profile-2.png": "/my-portfolio/static/media/profile-2.c99c0e2ee880464df244.png",
     "static/media/budget-calculator.png": "/my-portfolio/static/media/budget-calculator.6ec5c22c7b9b4a22fc74.png",
     "static/media/heart-trail-animation.png": "/my-portfolio/static/media/heart-trail-animation.dab43076bd90ed506e53.png",
-    "static/media/smiley.png": "/my-portfolio/static/media/smiley.0984094e97219eb132d7.png",
     "static/media/dmsans-medium-webfont.woff": "/my-portfolio/static/media/dmsans-medium-webfont.ecb067fc48cd385c7575.woff",
     "static/media/dmsans-regular-webfont.woff": "/my-portfolio/static/media/dmsans-regular-webfont.661d6b6eeb921bde4f66.woff",
     "static/media/dmsans-bold-webfont.woff": "/my-portfolio/static/media/dmsans-bold-webfont.93392c74a163b9d798df.woff",
-    "static/media/web.png": "/my-portfolio/static/media/web.bf7ff862ed9cfd1479bb.png",
+    "static/media/logo.png": "/my-portfolio/static/media/logo.a8a11ed52d3ac8560489.png",
     "static/media/dmsans-medium-webfont.woff2": "/my-portfolio/static/media/dmsans-medium-webfont.56323eecaf21b7e2ecab.woff2",
     "static/media/dmsans-bold-webfont.woff2": "/my-portfolio/static/media/dmsans-bold-webfont.ff25da0ce0f85a73b8db.woff2",
     "static/media/dmsans-regular-webfont.woff2": "/my-portfolio/static/media/dmsans-regular-webfont.6951f52f2e5e0c170b9f.woff2",
-    "static/media/github.png": "/my-portfolio/static/media/github.f11021803f68852df283.png",
     "index.html": "/my-portfolio/index.html",
-    "main.d130edeb.css.map": "/my-portfolio/static/css/main.d130edeb.css.map",
-    "main.91bc3386.js.map": "/my-portfolio/static/js/main.91bc3386.js.map"
+    "main.2d124621.css.map": "/my-portfolio/static/css/main.2d124621.css.map",
+    "main.fb0af00f.js.map": "/my-portfolio/static/js/main.fb0af00f.js.map"
   },
   "entrypoints": [
-    "static/css/main.d130edeb.css",
-    "static/js/main.91bc3386.js"
+    "static/css/main.2d124621.css",
+    "static/js/main.fb0af00f.js"
   ]
 }
